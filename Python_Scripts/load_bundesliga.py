@@ -52,7 +52,7 @@ except ImportError:
 
 # =============================================================== SETTINGS ===
 API_TOKEN = os.environ.get("SPORTMONKS_API_TOKEN") or \
-    "KisK8kQ5z9fz0hRsxYIVraixeiwMQgxBhXAvfmwEDCzOQwQZCngnOj5Hj074"
+    "****"
 
 DATABASE = {
     "dbname":   os.environ.get("FOOTBALL_DB_NAME", "football"),
